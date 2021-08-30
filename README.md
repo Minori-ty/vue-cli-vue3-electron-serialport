@@ -4,6 +4,8 @@ node v14 64位
 visual studio 2017 C++工作负载
 
 python3.9
+
+电脑设备上有COM2和COM3口
 ```
 npm i -g node-gyp
 ```
