@@ -1,24 +1,23 @@
 # vue3
 
-## Project setup
+## 环境需要：
+node v14 64位
+visual studio 2017 C++工作负载
+python3.9
+npm i -g node-gyp
+
+## 查看环境是否满足
 ```
-npm install
+node-gyp list
 ```
 
-### Compiles and hot-reloads for development
+## 安装依赖
+```
+npm i
+```
+出错的话就用yarn，一直安装，直到rebuild成功
+
+## 启动
 ```
 npm run serve
 ```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
