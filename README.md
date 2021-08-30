@@ -16,7 +16,7 @@ node-gyp list
 ```
 npm i
 ```
-出错的话就用`yarn`，一直安装，直到rebuild成功
+出错的话就用`yarn`，一直重复安装，直到rebuild成功为止
 
 ## 启动
 ```
