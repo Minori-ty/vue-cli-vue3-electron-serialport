@@ -24,3 +24,5 @@ npm i
 ```
 npm run serve
 ```
+
+[![Stargazers repo roster for @MelihAltintas/vue3-openlayers](https://github.com/Minori-ty/vue3-electron-serialport)](https://github.com/Minori-ty/vue3-electron-serialport/stargazers)
