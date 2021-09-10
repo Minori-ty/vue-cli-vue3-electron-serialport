@@ -25,4 +25,4 @@ npm i
 npm run serve
 ```
 
-[![Stargazers repo roster for @MelihAltintas/vue3-openlayers](https://reporoster.com/stars/Minori-ty/vue3-electron-serialport)](https://github.com/Minori-ty/vue3-electron-serialport/stargazers)
+[![Stargazers 给了这个项目star](https://reporoster.com/stars/Minori-ty/vue3-electron-serialport)](https://github.com/Minori-ty/vue3-electron-serialport/stargazers)
