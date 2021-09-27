@@ -24,5 +24,5 @@ npm i
 ```
 npm run serve
 ```
-
+## Star
 [![Stargazers 给了这个项目star](https://reporoster.com/stars/Minori-ty/vue3-electron-serialport)](https://github.com/Minori-ty/vue3-electron-serialport/stargazers)
